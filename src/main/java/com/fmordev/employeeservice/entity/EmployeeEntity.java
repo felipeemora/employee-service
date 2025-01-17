@@ -16,4 +16,5 @@ public class EmployeeEntity {
   private String lastName;
   private String email;
   private String departmentCode;
+  private String organizationCode;
 }
